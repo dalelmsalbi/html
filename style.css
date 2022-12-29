@@ -1,0 +1,56 @@
+li {
+  color: red;
+}
+a {
+  color: blueviolet;
+  background-color: bisque;
+  text-decoration: double;
+}
+li {
+  display: inline;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+p {
+  font-family: "Source Code Pro", monospace;
+}
+.test {
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+}
+h1 {
+  color: crimson;
+  text-decoration: underline;
+  text-transform: capitalize;
+  /* text-align: center; */
+}
+table {
+  width: 450px;
+  height: 250px;
+  text-align: center;
+  font-weight: bold;
+}
+.ligne1 {
+  background-color: chocolate;
+}
+.ligne2 {
+  background-color: coral;
+}
+label {
+  font-weight: 900;
+}
+footer {
+  text-align: center;
+  font-weight: 300;
+  color: rgb(94, 94, 94);
+  font-style: italic;
+}
+#bt {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: crimson;
+  border: none;
+  border-radius: 10px;
+}
